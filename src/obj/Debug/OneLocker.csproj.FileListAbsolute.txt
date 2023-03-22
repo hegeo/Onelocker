@@ -1,0 +1,70 @@
+C:\Users\Neo\source\repos\OneLocker\bin\Debug\OneLocker.exe
+C:\Users\Neo\source\repos\OneLocker\bin\Debug\OneLocker.pdb
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.csproj.AssemblyReference.cache
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.Properties.Resources.resources
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.csproj.GenerateResource.cache
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.exe
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.pdb
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.OneLocker.resources
+C:\Users\Neo\source\repos\OneLocker\obj\Debug\OneLocker.Form2.resources
+D:\客户版\OneLocker\bin\Debug\OneLocker.exe
+D:\客户版\OneLocker\bin\Debug\OneLocker.pdb
+D:\客户版\OneLocker\obj\Debug\OneLocker.csproj.AssemblyReference.cache
+D:\客户版\OneLocker\obj\Debug\OneLocker.OneLocker.resources
+D:\客户版\OneLocker\obj\Debug\OneLocker.Form2.resources
+D:\客户版\OneLocker\obj\Debug\OneLocker.Properties.Resources.resources
+D:\客户版\OneLocker\obj\Debug\OneLocker.csproj.GenerateResource.cache
+D:\客户版\OneLocker\obj\Debug\OneLocker.csproj.CoreCompileInputs.cache
+D:\客户版\OneLocker\obj\Debug\OneLocker.exe
+D:\客户版\OneLocker\obj\Debug\OneLocker.pdb
+D:\客户端\OneLocker源代码\bin\Debug\OneLocker.exe
+D:\客户端\OneLocker源代码\bin\Debug\OneLocker.pdb
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.csproj.AssemblyReference.cache
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.OneLocker.resources
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.Properties.Resources.resources
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.csproj.GenerateResource.cache
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.csproj.CoreCompileInputs.cache
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.exe
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.pdb
+D:\客户端\OneLocker源代码\obj\Debug\OneLocker.SetForm.resources
+D:\客户端\OneLocker源代码 - real\bin\Debug\OneLocker.exe
+D:\客户端\OneLocker源代码 - real\bin\Debug\OneLocker.pdb
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.csproj.AssemblyReference.cache
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.OneLocker.resources
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.SetForm.resources
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.Properties.Resources.resources
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.csproj.GenerateResource.cache
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.csproj.CoreCompileInputs.cache
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.exe
+D:\客户端\OneLocker源代码 - real\obj\Debug\OneLocker.pdb
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\bin\Debug\OneLocker.exe
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\bin\Debug\OneLocker.pdb
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.csproj.AssemblyReference.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.OneLocker.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.SetForm.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.Properties.Resources.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.csproj.GenerateResource.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.csproj.CoreCompileInputs.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.exe
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\obj\Debug\OneLocker.pdb
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\bin\Debug\OneLocker.exe
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\bin\Debug\OneLocker.pdb
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.csproj.AssemblyReference.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.OneLocker.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.SetForm.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.Properties.Resources.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.csproj.GenerateResource.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.csproj.CoreCompileInputs.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.exe
+D:\Onelocker源码\不完善\OneLocker源代码 - real03191834\OneLocker源代码 - real03191834\obj\Debug\OneLocker.pdb
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\bin\Debug\OneLocker.exe
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\bin\Debug\OneLocker.pdb
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.csproj.AssemblyReference.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.OneLocker.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.SetForm.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.Properties.Resources.resources
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.csproj.GenerateResource.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.csproj.CoreCompileInputs.cache
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.exe
+D:\Onelocker源码\不完善\OneLocker源代码 - osk202303202\obj\Debug\OneLocker.pdb
